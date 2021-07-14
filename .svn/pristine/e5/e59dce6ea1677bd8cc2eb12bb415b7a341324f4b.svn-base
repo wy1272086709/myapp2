@@ -1,0 +1,93 @@
+{
+  "pages": [
+    "pages/index/init",
+    "pages/index/index",
+    "pages/index/guide_page",
+    "pages/index/app_index",
+    "pages/user/profile",
+    "pages/user/edit_nickname",
+    "pages/index/keyword_page",
+    "pages/user/software_license",
+    "pages/user/user_agreement",
+    "pages/index/testing",
+    "pages/index/testing_result",
+    "pages/cases/index",
+    "pages/index/testing_questions",
+    "pages/mind_square/index",
+    "pages/mind_square/publish",
+    "pages/mind_square/ask-ques-list",
+    "pages/user/user_index",
+    "pages/user/one_to_one_university",
+    "pages/user/upgrade_user_vip_new",
+    "pages/user/user_asklist",
+    "pages/user/login_v2",
+    "pages/user/bind_phone_v2",
+    "pages/user/save_phone",
+    "pages/index/huashu",
+    "pages/cases/detail",
+    "pages/user/about_us",
+    "pages/user/complaint_v2",
+    "pages/index/mask",
+    "pages/user/virtual_users",
+    "pages/user/notice_list",
+    "pages/user/notice_detail",
+    "pages/user/score_list",
+    "pages/user/score_pay",
+    "pages/course/audio_detail",
+    "pages/course/article_detail",
+    "pages/course/index",
+    "pages/course/course_study_log",
+    "pages/course/video_detail",
+    "pages/user/score_log_list",
+    "pages/index/test_video"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F2F2F2",
+    "backgroundColor": "#FFFFFF",
+    "scrollIndicator": "none"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#2985F1",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "height": "50px",
+    "list": [
+      {
+        "pagePath": "pages/index/app_index",
+        "iconPath": "/static/img/tabbar/home_btn_link.png",
+        "selectedIconPath": "/static/img/tabbar/home_btn_active.png",
+        "defaultClass": "tabbar-icon-class",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/mind_square/index",
+        "iconPath": "/static/img/tabbar/brain_btn_link.png",
+        "selectedIconPath": "/static/img/tabbar/brain_btn_active.png",
+        "defaultClass": "tabbar-icon-class",
+        "text": "妙语广场"
+      },
+      {
+        "pagePath": "pages/course/index",
+        "iconPath": "/static/img/tabbar/course_btn_link.png",
+        "selectedIconPath": "/static/img/tabbar/course_btn_active.png",
+        "defaultClass": "tabbar-icon-class",
+        "text": "教程"
+      },
+      {
+        "pagePath": "pages/user/user_index",
+        "iconPath": "/static/img/tabbar/person_btn_link.png",
+        "selectedIconPath": "/static/img/tabbar/person_btn_active.png",
+        "defaultClass": "tabbar-icon-class",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {}
+}

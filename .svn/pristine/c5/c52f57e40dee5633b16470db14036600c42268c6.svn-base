@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 40,
+  "backgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "tab-bar": "/common/tabbar"
+  }
+}

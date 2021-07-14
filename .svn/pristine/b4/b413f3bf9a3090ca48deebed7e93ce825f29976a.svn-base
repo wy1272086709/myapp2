@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "话术库",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "ls-swiper": "/components/ls-swiper/index",
+    "custom-swiper": "/components/blackmonth-swiper/index",
+    "second-nav": "/common/get_second_nav"
+  }
+}
